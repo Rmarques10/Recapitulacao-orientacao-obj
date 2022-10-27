@@ -1,0 +1,15 @@
+C:\Users\Rafael Marques\source\repos\Recapitulacao orientacao obj\Recapitulacao orientacao obj\bin\Debug\net6.0\Recapitulacao orientacao obj.exe
+C:\Users\Rafael Marques\source\repos\Recapitulacao orientacao obj\Recapitulacao orientacao obj\bin\Debug\net6.0\Recapitulacao orientacao obj.deps.json
+C:\Users\Rafael Marques\source\repos\Recapitulacao orientacao obj\Recapitulacao orientacao obj\bin\Debug\net6.0\Recapitulacao orientacao obj.runtimeconfig.json
+C:\Users\Rafael Marques\source\repos\Recapitulacao orientacao obj\Recapitulacao orientacao obj\bin\Debug\net6.0\Recapitulacao orientacao obj.dll
+C:\Users\Rafael Marques\source\repos\Recapitulacao orientacao obj\Recapitulacao orientacao obj\bin\Debug\net6.0\Recapitulacao orientacao obj.pdb
+C:\Users\Rafael Marques\source\repos\Recapitulacao orientacao obj\Recapitulacao orientacao obj\obj\Debug\net6.0\Recapitulacao orientacao obj.csproj.AssemblyReference.cache
+C:\Users\Rafael Marques\source\repos\Recapitulacao orientacao obj\Recapitulacao orientacao obj\obj\Debug\net6.0\Recapitulacao orientacao obj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Marques\source\repos\Recapitulacao orientacao obj\Recapitulacao orientacao obj\obj\Debug\net6.0\Recapitulacao orientacao obj.AssemblyInfoInputs.cache
+C:\Users\Rafael Marques\source\repos\Recapitulacao orientacao obj\Recapitulacao orientacao obj\obj\Debug\net6.0\Recapitulacao orientacao obj.AssemblyInfo.cs
+C:\Users\Rafael Marques\source\repos\Recapitulacao orientacao obj\Recapitulacao orientacao obj\obj\Debug\net6.0\Recapitulacao orientacao obj.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Marques\source\repos\Recapitulacao orientacao obj\Recapitulacao orientacao obj\obj\Debug\net6.0\Recapitulacao orientacao obj.dll
+C:\Users\Rafael Marques\source\repos\Recapitulacao orientacao obj\Recapitulacao orientacao obj\obj\Debug\net6.0\refint\Recapitulacao orientacao obj.dll
+C:\Users\Rafael Marques\source\repos\Recapitulacao orientacao obj\Recapitulacao orientacao obj\obj\Debug\net6.0\Recapitulacao orientacao obj.pdb
+C:\Users\Rafael Marques\source\repos\Recapitulacao orientacao obj\Recapitulacao orientacao obj\obj\Debug\net6.0\Recapitulacao orientacao obj.genruntimeconfig.cache
+C:\Users\Rafael Marques\source\repos\Recapitulacao orientacao obj\Recapitulacao orientacao obj\obj\Debug\net6.0\ref\Recapitulacao orientacao obj.dll
